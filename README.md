@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![image of juarez logo](images.jpg#center)
 1. I currently teach at Juarez HS in Chicago, IL.
 2. I would say the first piece of "tech" I owned was a pager.
 3. I was born and raised in Chicago, IL.
